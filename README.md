@@ -1,4 +1,4 @@
-# Dhashboards_chartjs_Django
+# Dashboards_chartjs_Django
 Criando dashboards em Chartjs e Django
 
 
